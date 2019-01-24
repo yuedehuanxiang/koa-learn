@@ -1,0 +1,27 @@
+{
+  "name": "koa-learn",
+  "version": "1.0.0",
+  "description": "learn koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuedehuanxiang/koa-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuedehuanxiang/koa-learn/issues"
+  },
+  "homepage": "https://github.com/yuedehuanxiang/koa-learn#readme",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-ejs": "^4.2.0",
+    "koa-router": "^7.4.0"
+  }
+}
